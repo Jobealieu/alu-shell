@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - /dev/null
+paste - - | cut -f1
